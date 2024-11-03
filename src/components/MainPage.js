@@ -15,7 +15,7 @@ function MainPage() {
         <section>
         <div >
             <div className="row justify-content-md-center">
-                <div className="col col-lg-2" style={{backgroundColor: 'green'}}>
+                <div className="col col-lg-2" style={{backgroundColor: 'red'}}>
                     <SidePanel/>
                 </div>
                 
